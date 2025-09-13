@@ -89,6 +89,7 @@ results/environment_info.json
 results/benchmarks.csv
 results/data_summary.csv
 results/production_recommendations.json
+todo
 
 # Keep directory structure
 !artifacts/.gitkeep
