@@ -10,7 +10,7 @@ A comprehensive framework for robust outlier detection with uncertainty estimati
 
 This system combines multiple detection methods with uncertainty quantification to provide reliable anomaly detection for production environments. It includes statistical baselines, model-based detectors, density-based methods, and intelligent score fusion.
 
-## � Notebooks
+## 📓 Notebooks
 
 ### `detection_bi_domain.ipynb` - Production BI System
 The main production-ready notebook with comprehensive business intelligence features:
@@ -27,7 +27,7 @@ Foundational notebook demonstrating core concepts:
 - Bayesian logistic regression for uncertainty quantification
 - Educational examples and visualizations
 
-## �🚀 Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.8+
