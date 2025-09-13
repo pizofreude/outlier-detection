@@ -1,0 +1,9 @@
+{
+  "n_train": 420,
+  "n_ind_test": 180,
+  "n_ood": 120,
+  "n_features": 2,
+  "noise_level": 0.2,
+  "seed": 42,
+  "data_hash": "c378a3a0ff353b492872d1fdaaae51de615dc8eda53dab32ae825307cee70db3"
+}
